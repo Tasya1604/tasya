@@ -1,2 +1,1 @@
-# menu-makanan-sederhana
-membuat website sederhana untuk menampilkan data dari file JSON
+Disini kita akan belajar tentang resep makanan
